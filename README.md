@@ -3,4 +3,4 @@ This project is the source code of the utility helper web application available 
 
 https://pubgoods.appspot.com/
 
-The web application is running on Google App Engine.
+The project is an Eclipse project, the  web application is deployed to Google App Engine.
