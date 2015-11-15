@@ -1,4 +1,4 @@
-# pubgoods
+# PubGoods
 This project is the source code of the utility helper web application available at:
 
 https://pubgoods.appspot.com/
