@@ -1,0 +1,14 @@
+.header {border-bottom:1px solid #808080;padding-bottom:3px}
+.footer {border-top:1px solid #808080;padding-top:3px;margin-top:3px}
+.menu,.activeMenu {padding:0px 8px 0px 8px;margin:0px 0px 0px 4px}
+.menu {color:#0000ff}
+.activeMenu {background:#ffffff;color:#dd0000;}
+h1 {margin:0px;padding:0px}
+
+.description,.ads,.message,.error,.menubar {border-left:9px solid;padding:4px 0px 4px 10px;}
+.menuBar {border-color:#aaaaaa;background:#e0e0e0;color:#aaaaaa}
+.description {border-color:#8080ff;background:#ddddff}
+.ads {border-color:#cccc00;background:#eeee80}
+.message {border-color:#309930;background:#ccffcc}
+.error {border-color:#993030;background:#ffcccc}
+.explanation {font-size:80%;color:#555555}

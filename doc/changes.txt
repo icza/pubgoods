@@ -1,0 +1,20 @@
+2012-05-11
+-Time Zone service now has a counter which displays the elapsed time since or the remaining time to the reference time.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2012-05-09
+-New Service: Browser
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2012-05-09
+-Bug fixes
+-style changes
+-unified error page.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+2012-05-08
+-Public Services is launched.
+-Available services: Index, Location, Image, Digest/Hash, Time Zone, Base64, Request, Donate
